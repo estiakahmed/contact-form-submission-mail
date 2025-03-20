@@ -122,5 +122,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <button class="w-full bg-blue-500 text-white py-2 rounded-md">Submit</button>
         </form>
     </div>
+    <footer>
+        
+    </footer>
 </body>
 </html>
